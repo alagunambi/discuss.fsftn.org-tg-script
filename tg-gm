@@ -1,0 +1,4 @@
+#/bin/bash
+#chat#2598804 is FSFTN TG Group
+
+telegram-cli -k /etc/telegram-cli/tg-server.pub/tg-server.pub -u "+919962240050" -e "msg chat#2598804 ${1}" -D
